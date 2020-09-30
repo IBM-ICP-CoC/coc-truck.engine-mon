@@ -1,0 +1,29 @@
+{
+    "label": "Business policy for coc-truck.engine-mon",
+    "description": "A simple engine monitoring service simulator demo",
+    "service": {
+      "name": "coc-truck.engine-mon",
+      "org": "$HZN_ORG_ID",
+      "arch": "amd64",
+      "serviceVersions": [
+        {
+          "version": "1.0.0",
+          "priority":{}
+        }
+      ]
+    },
+    "properties": [],
+    "constraints": [
+          "engine-telemetry-version > 1.9"
+    ],
+    "userInput": [
+      {
+        "serviceOrgid": "$HZN_ORG_ID",
+        "serviceUrl": "coc-truck.engine-mon",
+        "serviceVersionRange": "[0.0.1,INFINITY)",
+        "inputs": [
+        ]
+      }
+    ]
+  }
+  
