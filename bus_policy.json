@@ -12,7 +12,16 @@
         }
       ]
     },
-    "properties": [],
+    "properties": [
+        {
+            "name": "coc-approved",
+            "value": true
+        },
+        {
+            "name": "security-level",
+            "value": 3
+        }
+    ],
     "constraints": [
           "engine-telemetry-version > 1.9"
     ],
