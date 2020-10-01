@@ -30,8 +30,7 @@
         "serviceOrgid": "$HZN_ORG_ID",
         "serviceUrl": "coc-truck.engine-mon",
         "serviceVersionRange": "[0.0.1,INFINITY)",
-        "inputs": [
-        ]
+        "inputs": [   ]
       }
     ]
   }
