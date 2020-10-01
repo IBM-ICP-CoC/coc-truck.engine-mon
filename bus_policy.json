@@ -23,7 +23,7 @@
         }
     ],
     "constraints": [
-          "engine-telemetry-version > 1.9"
+          "engine-telemetry-version > 1.5"
     ],
     "userInput": [
       {
