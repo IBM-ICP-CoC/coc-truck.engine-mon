@@ -23,7 +23,7 @@
         }
     ],
     "constraints": [
-          "vehicle-type-code == TR909"
+          "vehicle-type-code == TR09"
     ],
     "userInput": [
       {
