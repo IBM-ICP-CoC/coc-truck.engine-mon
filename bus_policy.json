@@ -23,7 +23,7 @@
         }
     ],
     "constraints": [
-          "engine-telemetry-version > 1.5"
+          "vehicle-type-code == TR909"
     ],
     "userInput": [
       {
