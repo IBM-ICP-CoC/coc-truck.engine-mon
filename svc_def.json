@@ -19,7 +19,6 @@
         }
     },
     "constraints": [
-        "openhorizon.memory >= 100",
-        "has-gps == true"
+        "openhorizon.memory >= 100"
     ]
 }
