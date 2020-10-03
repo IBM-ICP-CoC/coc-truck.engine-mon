@@ -23,7 +23,8 @@
         }
     ],
     "constraints": [
-          "vehicle-type-code == TR09 OR vehicle-type-code == TR23"
+          "vehicle-type-code == TR09 OR vehicle-type-code == TR23",
+          "openhorizon.memory >= 100"
     ],
     "userInput": [
       {
