@@ -1,6 +1,6 @@
 {
     "properties": [],
     "constraints": [
-        "has-gps == true"
+        "has-obd-ii == true"
     ]
 }
