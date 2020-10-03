@@ -13,7 +13,7 @@ docker login
 
 docker build -t ibmicpcoc/coc-truck.engine-mon_amd64:1.0.0 .
 
-hzn exchange service publish -f svc_def.json
+hzn exchange service publish -O -f svc_def.json
 
 hzn exchange business addpolicy --json-file=bus_policy.json coc-truck.engine-mon_1.0.0
 
