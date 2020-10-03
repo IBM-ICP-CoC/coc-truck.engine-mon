@@ -17,8 +17,5 @@
 		        "ports": [  ]
             }
         }
-    },
-    "constraints": [
-        "has-gps == true"
-    ]
+    }
 }
